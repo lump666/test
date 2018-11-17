@@ -7,7 +7,7 @@ package java_test;
 
 /**
  *
- * @author apeiron
+ * @author Kasia
  */
 public class Java_test {
 
